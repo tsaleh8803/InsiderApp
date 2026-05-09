@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+yfinance
+vaderSentiment
+sqlalchemy
+transformers
+torch
+openai
+python-dotenv
+requests
+youtube-search-python
+youtube-transcript-api
+google-api-python-client
+feedparser
